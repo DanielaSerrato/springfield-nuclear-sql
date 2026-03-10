@@ -47,10 +47,6 @@ Estos son los pasos recomendados para que los estudiantes instalen y carguen la 
 
 > **Tip**: El script incluye `DROP DATABASE IF EXISTS springfield_nuclear;` al inicio para que los estudiantes puedan volver a ejecutar el script sin problemas si necesitan reiniciar.
 
-## Uso pedagógico
 
-Antes de mostrar el dataset, puedes preguntarles qué preguntas harían sobre una planta nuclear. Luego, pídeles que carguen la base y utilicen SQL para responder sus propias preguntas. Esto convierte SQL en una herramienta de pensamiento, no solo en sintaxis.
-
-## Licencia
 
 Este material se proporciona con fines educativos. Puedes adaptarlo libremente para tus clases.
