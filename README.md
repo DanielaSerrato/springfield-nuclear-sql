@@ -45,7 +45,7 @@ Estos son los pasos recomendados para que los estudiantes instalen y carguen la 
 
    Si ves registros, la carga fue exitosa.
 
-> **Tip**: El script incluye `DROP DATABASE IF EXISTS springfield_nuclear;` al inicio para que los estudiantes puedan volver a ejecutar el script sin problemas si necesitan reiniciar.
+
 
 
 
